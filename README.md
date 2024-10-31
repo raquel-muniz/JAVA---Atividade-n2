@@ -1,7 +1,7 @@
 # JAVA---Atividade-n2
 4° Semestre
 
-FUNCIONALIDADES OBRIGATÓRIAS
+*FUNCIONALIDADES OBRIGATÓRIAS*
 1. Cadastrar um novo cliente:
       Implementar uma funcionalidade que permita inserir um novo cliente no sistema, coletando as informações essenciais como Nome, E-mail, Telefone, e demais campos criados por cada grupo.
 
